@@ -1,12 +1,12 @@
 A passionate Software Engineer from South Africa</h3>
 
-- 🔭 I’m currently working on **flow chart concept**
+- 🔭 I’m currently working on **ALX SE PROJECT**
 
 - 🌱 I’m currently learning **software Engineering**
 
-- 👯 I’m looking to collaborate on **flow chart concept**
+- 👯 I’m looking to collaborate on **ALX SE PROJECT**
 
-- 🤝 I’m looking for help with **flow chart concept**
+- 🤝 I’m looking for help with **ALX SE PROJECT**
 
 - 📫 How to reach me **azukauteh@yahoo.com**
 
